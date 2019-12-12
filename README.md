@@ -1,1 +1,3 @@
-# yahoo_scraping
+# Scraping japanese news from Yahoo
+
+A recursive solution
