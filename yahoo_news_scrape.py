@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Dec 10 13:34:41 2019
 
-@author: z5g1327
-"""
 
 from bs4 import BeautifulSoup
 import pandas as pd
